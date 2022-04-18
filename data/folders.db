@@ -1,0 +1,21 @@
+{"name":"Plantilla personajes","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"3U3XwLwjmUgavD6M"}
+{"name":"Pilares","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"4dVf6eAONkFP9Ivg"}
+{"name":"Trasfondos","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"6NpisS7rgWD1JT2P"}
+{"name":"Favores","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"7kW6YJ6nlza5tu0b"}
+{"name":"Estados personales","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"DQtrEhBPOjn4fEhY"}
+{"name":"Tiradas","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EtNQCfSadb19Ak4G"}
+{"name":"Estados ciudad","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Fd08U8m9Sg20qVXj"}
+{"name":"Personajes","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"HVlNKaiaTbDTkxZZ"}
+{"name":"Cigarros","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"JUO0bJ5LzmVW7ByY"}
+{"_id":"MBweZlbtYwSubku1","name":"2 - Paneles y Multipaneles","type":"Item","parent":null,"sorting":"a","sort":200000,"color":null,"flags":{}}
+{"_id":"PVHx5H6YrmFm7Ltc","name":"3 - Grupos y tablas","type":"Item","parent":null,"sorting":"a","sort":300000,"color":null,"flags":{}}
+{"name":"Contactos","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"TlpShwiRhx84PhJG"}
+{"_id":"ZEGcoymNDsVNSdjn","name":"4 - Propiedades","type":"Item","parent":null,"sorting":"a","sort":400000,"color":null,"flags":{}}
+{"name":"Objetos representativos","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"f4K2TU5TnsBln8db"}
+{"_id":"gtJCdSWPHkj2SL9o","name":"1 - Pestañas","type":"Item","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Reconocimiento","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"hKFecSpHDjF3tsC8"}
+{"name":"Motivaciones","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"mcgoUnxQuFdpAGoO"}
+{"_id":"oMacjEZ6E3MGYNRB","name":"5 - CItems","type":"Item","parent":null,"sorting":"a","sort":500000,"color":null,"flags":{}}
+{"name":"Pistas","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"tauljdZYGCdQC1NU"}
+{"name":"Triste balada","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ucvedxZnjjCMQrUI"}
+{"name":"Tragos tranquilos","type":"Item","parent":"ZEGcoymNDsVNSdjn","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zfJn0sGIiGOX2vvY"}
