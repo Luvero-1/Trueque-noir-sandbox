@@ -8,7 +8,7 @@
       "discord": "Luvero#5745"
     }
   ],
-  "url": "https://github.com/Luvero-1/trueque-noir-sandbox",
+  "url": "https://github.com/Luvero-1/Trueque-noir-sandbox",
   "flags": {},
   "version": "1.0.0",
   "minimumCoreVersion": "0.8.6",
@@ -21,8 +21,8 @@
   "system": "sandbox",
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/Luvero-1/trueque-noir-sandbox/main/world.json",
-  "download": "https://codeload.github.com/Luvero-1/trueque-noir-sandbox/zip/main",
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/Trueque-noir-sandbox/main/world.json",
+  "download": "https://codeload.github.com/Luvero-1/Trueque-noir-sandbox/zip/main",
   "protected": false,
   "background": "",
   "coreVersion": "9.268",
