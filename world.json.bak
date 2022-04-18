@@ -1,6 +1,6 @@
 {
-  "name": "trueque-noir",
-  "title": "*Sistema propio 12 - Trueque noir",
+  "name": "trueque-noir-sandbox",
+  "title": "Trueque noir para Sandbox",
   "description": "",
   "authors": [
     {
@@ -21,8 +21,8 @@
   "system": "sandbox",
   "dependencies": [],
   "socket": false,
-  "manifest": "https://raw.githubusercontent.com/Luvero-1/trueque-mitos-sandbox/trueque-noir-sandbox/world.json",
-  "download": "https://codeload.github.com/Luvero-1/trueque-mitos-sandbox/zip/trueque-noir-sandbox",
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/trueque-noir-sandbox/main/world.json",
+  "download": "https://codeload.github.com/Luvero-1/trueque-noir-sandbox/zip/main",
   "protected": false,
   "background": "",
   "coreVersion": "9.268",
